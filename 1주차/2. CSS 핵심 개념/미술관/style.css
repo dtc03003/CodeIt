@@ -1,0 +1,84 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Noto Sans KR", sans-serif;
+    font-size: 16px;
+    margin: 0;
+}
+
+#logo {
+    margin: 68px 48px 24px;
+    width: 104px;
+}
+
+#logo {
+    font-size: 22px;
+    font-weight: 700;
+    color: #000000;
+}
+
+h1 {
+    margin: 0 48px 0;
+}
+
+#nav {
+    font-size: 22px;
+    font-weight: 700;
+    color: #000000;
+}
+
+#title {
+    font-size: 24px;
+    font-weight: 700;
+    color: #000000;
+}
+
+#day {
+    font-size: 16px;
+    margin: 8px 48px;
+}
+
+hr {
+    margin: 24px 0 40px;
+}
+
+#imgDiv {
+    margin: 24px 0 24px;
+    overflow: scroll;
+    white-space: nowrap;
+}
+
+#imgDiv > img {
+    height: 194px;
+}
+
+a {
+    display: inline-block;
+    margin: 24px 48px 72px;
+    padding: 12px 24px 12px;
+    color: #ffffff;
+    background-color: #000000;
+}
+
+#intro {
+    font-size: 24px;
+    font-weight: 700;
+    color: #000000;
+}
+
+p {
+    margin: 16px 48px 24px;
+    font-size: 16px;
+    color: #000000;
+}
+
+#spaceDiv {
+    margin: 0 48px 0;
+}
+
+#space {
+    width: 100%;
+    margin: 24px auto;
+}
