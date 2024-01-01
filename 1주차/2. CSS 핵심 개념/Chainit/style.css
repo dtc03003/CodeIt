@@ -6,3 +6,44 @@ body {
     font-family: Poppins, "Noto Sans KR", sans-serif;
     margin: 0;
 }
+
+.main {
+    background-image: url("bg.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding: 12px 0;
+}
+
+.logo {
+    margin: 0 40px;
+    font-size: 20px;
+    font-weight: 700;
+    color: #ffffff;
+}
+
+.section {
+    width: 720px;
+    margin: 0 auto;
+}
+
+.main .mTitle {
+    margin-top: 80px;
+    font-size: 20px;
+    font-weight: 500;
+    color: #8287a4;
+}
+
+.main .lTitle {
+    margin: 12px 0;
+    font-size: 56px;
+    font-weight: 700;
+    color: #ffffff;
+}
+
+.main .sTitle {
+    margin: 14px 0 280px;
+    font-size: 14px;
+    font-weight: 400;
+    color: #8287a4;
+}
