@@ -22,6 +22,12 @@ body {
     color: #ffffff;
 }
 
+.sub1,
+.sub2,
+.sub3 {
+    padding: 74px 0 0;
+}
+
 .section {
     width: 720px;
     margin: 0 auto;
@@ -46,4 +52,75 @@ body {
     font-size: 14px;
     font-weight: 400;
     color: #8287a4;
+}
+
+.title {
+    margin: 0 0;
+}
+
+img {
+    margin: 42px 0 32px;
+    width: 100%;
+    border-radius: 24px;
+}
+
+.explanation {
+    font-size: 16px;
+    font-weight: 500;
+    color: #4c497b;
+}
+
+p {
+    margin: 0;
+}
+
+.button-container {
+    text-align: center;
+}
+
+.button,
+.last_button {
+    display: inline-block;
+    margin: 32px 0 64px;
+    padding: 16px 32px;
+    background-color: #413c91;
+    border-radius: 8px;
+    font-size: 16px;
+    font-weight: 700;
+    color: #ffffff;
+}
+
+.sub2 {
+    background-color: #f1f4fa;
+}
+
+.sub4 {
+    padding: 40px 0 0;
+    background-color: #161346;
+    text-align: center;
+}
+
+.last_title {
+    margin: 0 0 8px;
+    font-size: 32px;
+    font-weight: 500;
+    color: #ffffff;
+}
+
+.last_explanation {
+    font-size: 16px;
+    font-weight: 400;
+    color: #8287a4;
+}
+
+.last_button {
+    border-radius: 9999px;
+}
+
+.footer {
+    padding: 32px 0;
+    background-color: #120f3f;
+    font-size: 16px;
+    font-weight: 400;
+    color: #d9d9d9;
 }
